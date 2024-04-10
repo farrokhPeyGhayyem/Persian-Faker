@@ -43,7 +43,7 @@ class Internet extends \Faker\Provider\Internet
         'salari', 'salehi', 'salemi', 'shahbazi', 'shahriari', 'shahidi', 'shirazi', 'shojaei', 'soleimani', 'soomekh', 'soroush',
         'tabatabaei', 'talebi', 'tousi',
         'yazdani', 'yazdi', 'yousefi',
-        'zandi', 'zare',
+        'zandi', 'zare','ehtesham','amini','farrokhPey'
     );
 
     /*
@@ -69,7 +69,7 @@ class Internet extends \Faker\Provider\Internet
         'tara', 'taraneh', 'turan',
         'vahid',
         'yaghoub', 'yahya', 'yasamin', 'yasaman', 'younes', 'yousef',
-        'zahra', 'zarine', 'zeynab', 'zhila',
+        'zahra', 'zarine', 'zeynab', 'zhila','farrokh','amin','yashar'
     );
 
     public static function lastNameAscii()
